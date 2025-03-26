@@ -1,1 +1,0 @@
-general articles about GNN
